@@ -2,4 +2,4 @@ Timer that counts worktime instead of me :)
 
 Created using asyncio.
 
-Created for personal use by me and friends.
+Created for personal use.
